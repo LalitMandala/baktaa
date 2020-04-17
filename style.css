@@ -358,6 +358,11 @@
     color: gray;
 }
 
-.poem{
+.poem, .audio_name h4{
 font-family: 'Gotu', sans-serif;
+}
+
+.audio_name h4{
+	font-size:20px;
+	line-height:50px;
 }
